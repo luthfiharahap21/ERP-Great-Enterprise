@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Great Enterprise ERP",
+  "description": "A complete, modular web-based ERP system featuring Dashboard, Inventory, Customer Management, Sales, and Reporting with Dark Mode support and LocalStorage persistence.",
+  "requestFramePermissions": []
+}
